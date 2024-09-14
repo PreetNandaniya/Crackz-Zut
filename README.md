@@ -11,7 +11,7 @@ Crackz Zut is a tool for recovering passwords from encrypted ZIP files using a b
 1. **Clone Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/crackz-zut.git
+    git clone https://github.com/OmVinchhi/crackz-zut.git
     cd crackz-zut
     ```
 
@@ -24,7 +24,7 @@ Crackz Zut is a tool for recovering passwords from encrypted ZIP files using a b
 3. **Run the Tool:**
 
     ```bash
-    python cracker.py path/to/encrypted.zip
+    python BT.py path/to/encrypted.zip
     ```
 
 ## Usage
